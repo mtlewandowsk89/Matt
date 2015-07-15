@@ -1,6 +1,6 @@
 # Site settings
 title: Matt's Super Cool Blog
-email: mtlewandowsk@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   This is my first Jekyll blog and I hope to update it regularly. 
 baseurl: "/Matt/" # the subpath of your site, e.g. /blog/
